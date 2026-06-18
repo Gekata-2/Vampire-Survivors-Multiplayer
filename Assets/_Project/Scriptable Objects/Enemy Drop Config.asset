@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0e66073a73f4a60a0cb98145551691a, type: 3}
+  m_Name: Enemy Drop Config
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.LootConfig
+  _loot:
+    _serializedList:
+    - Key: 0
+      Value:
+        <DropWeight>k__BackingField: 0
+        <Prefab>k__BackingField:
+          RawGuidValue: 00000000000000000000000000000000
+    - Key: 1
+      Value:
+        <DropWeight>k__BackingField: 5
+        <Prefab>k__BackingField:
+          RawGuidValue: 7df1e991922f04742aefa00a14eb0c56
+    - Key: 2
+      Value:
+        <DropWeight>k__BackingField: 5
+        <Prefab>k__BackingField:
+          RawGuidValue: 588333ef7b721184eb79d1553e4f3f33
